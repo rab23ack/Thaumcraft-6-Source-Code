@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "thaumcraft",
+  "version": "${version}",
+  "name": "Thaumcraft",
+  "description": "Thaumcraft port scaffolding for Minecraft 1.20.1 on Fabric.",
+  "authors": [
+    "Thaumcraft Team",
+    "Ported by griglog"
+  ],
+  "contact": {
+    "homepage": "https://github.com/griglog/Thaumcraft-6-Source-Code"
+  },
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "thaumcraft.ThaumcraftFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
