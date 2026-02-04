@@ -1,0 +1,13 @@
+{
+  "itemGroup.thaumcraft": "Thaumcraft",
+  "block.thaumcraft.arcane_block": "Arcane Block",
+  "item.thaumcraft.arcane_crystal": "Arcane Crystal",
+  "warp.text.nausea": "A nauseating wave passes over you.",
+  "warp.text.hunger": "A gnawing hunger seizes you.",
+  "warp.text.darkness": "The world feels unnaturally dim.",
+  "warp.text.blindness": "Your vision fades for a moment.",
+  "warp.text.fade": "A fragment of warp slips away.",
+  "warp.command.add": "Added %s %s warp.",
+  "warp.command.set": "Set warp to %s %s.",
+  "warp.command.status": "Warp status - normal: %s, permanent: %s, temporary: %s."
+}
